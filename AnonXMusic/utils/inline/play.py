@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝙶𝚁𝙾𝚄𝙿", url=f"https://t.me/tcz_group"
+                text="𒆸", url=f"https://t.me/Princy_assistant"
             ),
             InlineKeyboardButton(
-                text="𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/tcz_group"
+                text="𝐵𝐴𝐷𝑁𝐴𝑀", url=f"https://t.me/badnam_ji"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝙶𝚁𝙾𝚄𝙿", url=f"https://t.me/tcz_group"
+                text="𒆸", url=f"https://t.me/Princy_assistant"
             ),
             InlineKeyboardButton(
-                text="𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/tcz_group"
+                text="𝐵𝐴𝐷𝑁𝐴𝑀", url=f"https://t.me/badnam_ji"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
