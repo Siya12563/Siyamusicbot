@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𒆸", url=f"https://t.me/Princy_assistant"
+                text="𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/VENOM_WORLD_ZONE"
             ),
             InlineKeyboardButton(
-                text="𝐵𝐴𝐷𝑁𝐴𝑀", url=f"https://t.me/badnam_ji"
+                text="𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/GIRLS_BOYS_DPS_STYLISH_NAME"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𒆸", url=f"https://t.me/Princy_assistant"
+                text="𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/VENOM_WORLD_ZONE"
             ),
             InlineKeyboardButton(
-                text="𝐵𝐴𝐷𝑁𝐴𝑀", url=f"https://t.me/badnam_ji"
+                text="𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/GIRLS_BOYS_DPS_STYLISH_NAME"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
