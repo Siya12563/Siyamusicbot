@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗨𝗡𝐈𝗤꯭𝗨𝗘𝐂𝐎𝗥𝗡💗", url=f"https://t.me/uniquecorn_143"
+                text="𝗨𝗡𝐈𝘾𝙊𝙍𝙉", url=f"https://t.me/uniquecorn_143"
             ),
             InlineKeyboardButton(
-                text="❍꯭˚꯭𝐅꯭˚𝐅˚͢🅛˚꯭𝐈꯭˚꯭𝐍꯭˚𝐄", url=f"https://t.me/offline_143"
+                text="𝙊𝙁𝙁𝙇𝙄𝙉𝙀", url=f"https://t.me/offline_143"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝗨𝗡𝐈𝗤꯭𝗨𝗘𝐂𝐎𝗥𝗡💗", url=f"https://t.me/uniquecorn_143"
+                text="𝗨𝗡𝐈𝘾𝙊𝙍𝙉", url=f"https://t.me/uniquecorn_143"
             ),
             InlineKeyboardButton(
-                text="❍꯭˚꯭𝐅꯭˚𝐅˚͢🅛˚꯭𝐈꯭˚꯭𝐍꯭˚𝐄", url=f"https://t.me/offline_143"
+                text="𝙊𝙁𝙁𝙇𝙄𝙉𝙀", url=f"https://t.me/offline_143"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
